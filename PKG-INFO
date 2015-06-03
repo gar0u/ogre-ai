@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: ogre
+Version: 0.9.1
+Summary: Python implementation of OGRE.
+Home-page: None
+Author: William J. Hutton, III
+Author-email: williamhutton@gmail.com
+License: No license
+Description: Python modules that implement the classic OGRE
+             board game for using artificial intelligence
+             algorithms to explore the game.
+Platform: Any
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: No license
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: Alpha
